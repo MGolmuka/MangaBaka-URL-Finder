@@ -2,6 +2,8 @@
 
 Chrome extension for finding matching aggregator URLs for `mangabaka.org/<id>`
 
+**Not affiliated with MangaBaka dev team**
+
 ## Features
 
 - Reads MangaBaka metadata from active tab and finds URLs from chosen manga aggregator sites
